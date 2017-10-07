@@ -27,7 +27,7 @@ SECRET_KEY = 'r0f$hp_2-d#g^%02(4riio@_2e-1a4y)sj1fzrn@e55@lcw!nl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<melu>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'melu.pythonanywhere.com']
 
 
 
